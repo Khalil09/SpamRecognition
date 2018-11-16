@@ -2,16 +2,6 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.gaussian_process.kernels import RBF
 from sklearn.model_selection import ShuffleSplit
 from sklearn.model_selection import cross_val_score, cross_val_predict
-# from sklearn.metrics import confusion_matrix
-# from sklearn.metrics import accuracy_score
-# from sklearn.svm import SVC
-# from sklearn.model_selection import train_test_split
-# from sklearn.model_selection import learning_curve
-# import matplotlib.pyplot as plt
-# import numpy as np
-
-
-
 
 class LearnAlgorithms(object):
 
